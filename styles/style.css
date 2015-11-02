@@ -1,0 +1,101 @@
+.nav {
+    background-color: #6D6D9E;
+}
+.nav a {
+  color:#cccc66;
+  font-size: 16px;
+  font-weight: bold;
+  padding-top: 10px;
+  padding:8px;
+  text-transform: uppercase;
+}
+.nav li{
+  display: inline;
+}
+#picture {
+    padding-bottom: 5px;
+}
+.info {
+    padding-top: 12px;
+}
+.info p{
+    background-color:#D4D4F1;
+    padding-top: 20px;
+    border-radius:4%;
+}
+.profile-img{
+  max-width: 200px;
+  border-radius:10%;
+  align-self: center;
+ 
+}
+.info p{
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+  width: 100%;
+  color: #555;
+  padding-top: 5px;
+}
+.work{
+    padding: 10px;
+}
+.work img{
+  display:inline-block;
+  max-width: 150px;
+  border-radius:0%;
+  align-self: center;
+  margin-right: 50px;
+  -webkit-filter: grayscale(100%);
+  -webkit-transition: all 2s ease;
+}
+.work img:hover{
+    -webkit-filter: grayscale(0%);
+}
+.workdesc h2{
+  color:#555;
+  display: inline-block;
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+  margin-right: 85px;
+  padding: 5px;
+}
+
+.box{
+ background-color: #6D6D9E;
+ width: 50%;
+ height: 10px;
+ margin-left: 20%;
+}
+.projects-info h1{
+  color:#555;
+  display: inline-block;
+  font-family: 'Shift', sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: underline;
+}
+.projects-info h2{
+  color:#3F3FBE;
+  display: inline;
+  font-family: 'Shift', sans-serif;
+  font-size: 25px;
+  font-weight: bold;
+  text-align: center;
+}
+.projects-info p{
+  color:#7B7B7B;
+  font-family: 'Shift', sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+}
+#box1{
+    background-color: #c0c041;
+}
+#box2{
+    background-color: darkolivegreen;
+}
